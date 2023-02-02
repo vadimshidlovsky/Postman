@@ -1,1 +1,1 @@
-# Here you can find tests samples in Postman.
+# Here you can find tests samples from Postman.
